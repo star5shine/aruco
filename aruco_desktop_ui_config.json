@@ -1,0 +1,13 @@
+{
+  "camera_ip": "192.168.1.11",
+  "rtsp_user": "admin",
+  "rtsp_password": "sua07f18",
+  "rtsp_port": "554",
+  "rtsp_path": "/channel=1&stream=1.sdp",
+  "tcp_host": "127.0.0.1",
+  "tcp_port": "10010",
+  "width": "800",
+  "height": "480",
+  "display_width": "800",
+  "display_height": "450"
+}
